@@ -1,0 +1,13 @@
+package com.inventoryUserSystem.authentication;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class InventoryUserSystemApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(InventoryUserSystemApplication.class, args);
+	}
+
+}
